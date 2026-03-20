@@ -1,0 +1,10 @@
+title: Chronicles of a White Collar Worker
+description: Notes from office life.
+baseurl: "/chronicles-white-collar-worker"
+theme: minima
+
+author:
+  name: CWCW
+
+header_pages:
+  - about.md
