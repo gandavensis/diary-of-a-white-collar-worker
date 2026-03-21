@@ -1,4 +1,4 @@
-# Chronicles of a White Collar Worker
+# Diary of a White Collar Worker
 
 A minimal public diary/blog designed for GitHub Pages.
 
