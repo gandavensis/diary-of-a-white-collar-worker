@@ -20,7 +20,7 @@ A minimal public diary/blog designed for GitHub Pages.
 
 Your site URL should be:
 
-`https://YOUR-USERNAME.github.io/chronicles-white-collar-worker/`
+`https://gandavensis.github.io/diary-of-a-white-collar-worker/`
 
 ## Write a new diary entry
 
